@@ -1,5 +1,6 @@
 # Financial-Dashboard
 Financial Dashboard : Festmen Stores Report Insights Dashboard
+
 A dynamic, interactive data visualization tool built to explore business growth through analizing key performance metrics for Festmen Stores. 
 
 
