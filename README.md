@@ -31,3 +31,5 @@ Business Impacts & Insights:
 5. Months with highest and lowest sales
 6. Effectiveness of discount strategies
 7. Areas needing attention or improvement for future planning
+
+Dashboard Preview: (https://github.com/himanshinegi23/Financial-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
